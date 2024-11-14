@@ -14,7 +14,7 @@ This project focuses on customer segmentation using clustering and dimensionalit
 
 ## Installation
 To set up the environment, you can use the requirements file:
-```bash
+``bash
 pip install -r requirements.txt
 
 ## Project Structure
